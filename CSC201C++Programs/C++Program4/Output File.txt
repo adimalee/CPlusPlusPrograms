@@ -1,0 +1,13 @@
+The value that you wanted to withdraw is: 2500
+The value that you wanted to withdraw is: 500
+The value that you prefered to deposit is: 1500
+The value that you prefered to deposit is: 700
+The value that you wanted to withdraw is: 1200
+The value that you prefered to deposit is: 190
+The value that you wanted to withdraw is: 70
+The value that you wanted to withdraw is: 85
+The value that you prefered to deposit is: 600
+The value that you prefered to deposit is: 800
+The value that you wanted to withdraw is: 1100
+The Current Balance is: 2835
+The Number of Transaction(s): 10

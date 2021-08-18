@@ -1,0 +1,46 @@
+This lab will exercise your understanding of some of the concepts covered in Chapter 16:  
+  vector object, sequential search
+  
+1.  Create a program that uses the Sequential Search Algorithm to search a STRING VECTOR OBJECT.
+
+    You may begin with the Sequential search algorithm in the text page 1016, on slide 5 of the powerpoint
+    lecture or implement in your own way
+    
+a.  Write the sequential search function using a vector.
+
+b.  Create a vector object and request a list of names from the user, first names are adequate.  
+    Store the names in a string vector.
+    
+c.  Request a sentinel value to end the input sequence.
+
+d.  Request a search name from the user.  Remember, unless you account for case, the data will be case sensitive.
+
+e.  Call the sequential search function.
+
+f.  Upon return from the search, display an appropriate message indicating whether the name was 
+    or was not found.
+
+You may download and use the 'primer' .cpp file which should get you started using the sequential 
+search prototype defined.  You DO NOT have to use this.
+
+Complete as much as you can before you leave ensuring what you've completed compiles.  These labs are 
+entirely for your practice.
+
+If you like to include the following line of code:  system("pause");
+You MAY need to:  #include <cstdlib>
+
+The program may be named any name of our choice, must 
+have a .cpp extention; variables may be any name of your choice.
+
+You DO NOT have to comment these programs, however, please include your NAME as a comment in ALL code files.
+
+Create with Dev-C++.  Compile and run.
+
+SUBMIT the code (*.cpp). All files must be submitted and the program MUST compile and run to get credit.
+
+You MAY zip the files and submit the zipped files.
+
+MUST be submitted before end of class.
+
+Questions will be entertained; solution will be discussed in class. This is a collaborative effort to provide examples
+and practice for your understanding.

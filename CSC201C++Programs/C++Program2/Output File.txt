@@ -1,0 +1,4 @@
+ Weight Height  Age  M/F  Activity Level       BMR      Total Calories
+  155     64    38    F           2           1451           1995
+  175     72    47    M           4           1752           3022
+  143     61    29    F           3           1427           2211

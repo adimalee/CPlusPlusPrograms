@@ -1,0 +1,8 @@
+  GREEN    5 pounds of resistance
+    RED    8 pounds of resistance
+  BLACK   19 pounds of resistance
+Total Resistance: 64
+You need about 2 band(s) of   BLACK   19 pounds of resistance
+You need about 1 band(s) of     RED    8 pounds of resistance
+You need about 1 band(s) of  YELLOW    3 pounds of resistance
+The total resistance for those bands is: 98

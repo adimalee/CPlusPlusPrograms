@@ -1,0 +1,40 @@
+This lab will exercise your understanding of some of the concepts covered in Chapter 13:  
+  overloading operators
+  
+1.  Using the solution for the class Pet (Chapter 10):
+
+    a.  Create a new private member variable to represent the number of pets.
+    
+    b.  Include the new variable in the default constructor for initialization (if appropriate),
+        set, get, print and other functions as appropriate
+        
+    c.  Overload the + (plus) operator as follows:
+    
+        petobject + amount -- will increase the number of pets by the amount
+        
+    d.  In the test program, create a pet object with 1 in the number of pets,
+        add an amount to the pet object, and print the object
+    
+    
+    
+Complete as much as you can before you leave ensuring what you've completed compiles.  These labs are 
+entirely for your practice.
+
+If you like to include the following line of code:  system("pause");
+You MAY need to:  #include <cstdlib>
+
+The program may be named any name of our choice, must 
+have a .cpp extention; variables may be any name of your choice.
+
+You DO NOT have to comment these programs, however, please include your NAME as a comment in ALL code files.
+
+Create with Dev-C++.  Compile and run.
+
+SUBMIT the code ( *.h and *.cpp) files and the project file (*.dev).   All files must be submitted and the program MUST compile and run to receive credit.
+
+You MAY zip the files and submit the zipped files.
+
+MUST be submitted before end of class.
+
+Questions will be entertained; solution will be discussed in class. This is a collaborative effort to provide examples
+and practice for your understanding.

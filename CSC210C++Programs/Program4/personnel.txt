@@ -1,0 +1,4 @@
+Pamella Smith Professor P 10.00
+Harper Willis Dean      F 20.00
+Tsia   Brian  Security  F 15.00
+Phelix Parot  President F 90.00
